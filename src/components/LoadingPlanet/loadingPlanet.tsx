@@ -10,6 +10,7 @@ const LoadingPlanet = () => { //load page burning nft component
             height={600}
             alt='loading gif'
             className={styles.planetGif}
+            unoptimized={true}
             />
         </div>
     );
